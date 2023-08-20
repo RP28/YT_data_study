@@ -58,7 +58,7 @@ for c_detail in channel_details:
 
 print("Dataset acquired.")
 
-csv_filename = "dataset2.csv"
+csv_filename = "dataset1.csv"
 
 field_names = dataset[0].keys()
 
